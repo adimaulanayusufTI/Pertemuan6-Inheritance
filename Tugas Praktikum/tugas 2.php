@@ -42,8 +42,8 @@ class PegawaiKontrak extends Pegawai {
 }
 
 $daftar = [
-    new PegawaiTetap('P001', 'Budi', 5000000),
-    new PegawaiKontrak('K001', 'Sari', 50000, 160),
+    new PegawaiTetap('P001', 'Udin ', 4000000),
+    new PegawaiKontrak('K001', 'Enyin', 50000, 160),
 ];
 
 foreach ($daftar as $p) {
